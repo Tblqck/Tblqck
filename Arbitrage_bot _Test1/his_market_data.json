@@ -1,0 +1,602 @@
+[
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:26:00",
+        "open": "0.55000000",
+        "high": "0.55010000",
+        "low": "0.54970000",
+        "close": "0.54970000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:27:00",
+        "open": "0.54980000",
+        "high": "0.54980000",
+        "low": "0.54930000",
+        "close": "0.54930000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:28:00",
+        "open": "0.54930000",
+        "high": "0.54990000",
+        "low": "0.54930000",
+        "close": "0.54990000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:29:00",
+        "open": "0.54990000",
+        "high": "0.55030000",
+        "low": "0.54970000",
+        "close": "0.54970000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:30:00",
+        "open": "0.54970000",
+        "high": "0.54970000",
+        "low": "0.54920000",
+        "close": "0.54970000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:31:00",
+        "open": "0.54960000",
+        "high": "0.55030000",
+        "low": "0.54960000",
+        "close": "0.55020000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:32:00",
+        "open": "0.55020000",
+        "high": "0.55080000",
+        "low": "0.55020000",
+        "close": "0.55080000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:33:00",
+        "open": "0.55080000",
+        "high": "0.55090000",
+        "low": "0.54990000",
+        "close": "0.55010000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:34:00",
+        "open": "0.55000000",
+        "high": "0.55030000",
+        "low": "0.55000000",
+        "close": "0.55010000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:35:00",
+        "open": "0.55000000",
+        "high": "0.55020000",
+        "low": "0.54990000",
+        "close": "0.54990000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:36:00",
+        "open": "0.54990000",
+        "high": "0.55030000",
+        "low": "0.54970000",
+        "close": "0.55030000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:37:00",
+        "open": "0.55040000",
+        "high": "0.55070000",
+        "low": "0.55020000",
+        "close": "0.55060000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:38:00",
+        "open": "0.55060000",
+        "high": "0.55060000",
+        "low": "0.55020000",
+        "close": "0.55020000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:39:00",
+        "open": "0.55030000",
+        "high": "0.55030000",
+        "low": "0.54970000",
+        "close": "0.55000000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:40:00",
+        "open": "0.54970000",
+        "high": "0.54980000",
+        "low": "0.54950000",
+        "close": "0.54970000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:41:00",
+        "open": "0.54980000",
+        "high": "0.54980000",
+        "low": "0.54940000",
+        "close": "0.54940000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:42:00",
+        "open": "0.54930000",
+        "high": "0.54960000",
+        "low": "0.54920000",
+        "close": "0.54950000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:43:00",
+        "open": "0.54940000",
+        "high": "0.54990000",
+        "low": "0.54940000",
+        "close": "0.54990000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:44:00",
+        "open": "0.54980000",
+        "high": "0.54990000",
+        "low": "0.54950000",
+        "close": "0.54950000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:45:00",
+        "open": "0.54950000",
+        "high": "0.54960000",
+        "low": "0.54920000",
+        "close": "0.54930000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:46:00",
+        "open": "0.54930000",
+        "high": "0.54930000",
+        "low": "0.54890000",
+        "close": "0.54930000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:47:00",
+        "open": "0.54920000",
+        "high": "0.54920000",
+        "low": "0.54850000",
+        "close": "0.54870000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:48:00",
+        "open": "0.54870000",
+        "high": "0.54900000",
+        "low": "0.54860000",
+        "close": "0.54870000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:49:00",
+        "open": "0.54870000",
+        "high": "0.54870000",
+        "low": "0.54850000",
+        "close": "0.54860000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:50:00",
+        "open": "0.54850000",
+        "high": "0.54860000",
+        "low": "0.54810000",
+        "close": "0.54820000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:51:00",
+        "open": "0.54810000",
+        "high": "0.54830000",
+        "low": "0.54770000",
+        "close": "0.54780000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:52:00",
+        "open": "0.54780000",
+        "high": "0.54800000",
+        "low": "0.54770000",
+        "close": "0.54800000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:53:00",
+        "open": "0.54800000",
+        "high": "0.54810000",
+        "low": "0.54750000",
+        "close": "0.54760000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:54:00",
+        "open": "0.54760000",
+        "high": "0.54780000",
+        "low": "0.54750000",
+        "close": "0.54750000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:55:00",
+        "open": "0.54740000",
+        "high": "0.54810000",
+        "low": "0.54690000",
+        "close": "0.54810000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:56:00",
+        "open": "0.54810000",
+        "high": "0.54840000",
+        "low": "0.54800000",
+        "close": "0.54800000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:57:00",
+        "open": "0.54800000",
+        "high": "0.54830000",
+        "low": "0.54800000",
+        "close": "0.54820000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:58:00",
+        "open": "0.54820000",
+        "high": "0.54830000",
+        "low": "0.54810000",
+        "close": "0.54830000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 15:59:00",
+        "open": "0.54840000",
+        "high": "0.54860000",
+        "low": "0.54800000",
+        "close": "0.54820000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:00:00",
+        "open": "0.54810000",
+        "high": "0.54870000",
+        "low": "0.54800000",
+        "close": "0.54860000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:01:00",
+        "open": "0.54840000",
+        "high": "0.54840000",
+        "low": "0.54730000",
+        "close": "0.54780000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:02:00",
+        "open": "0.54780000",
+        "high": "0.54810000",
+        "low": "0.54770000",
+        "close": "0.54790000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:03:00",
+        "open": "0.54800000",
+        "high": "0.54820000",
+        "low": "0.54800000",
+        "close": "0.54820000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:04:00",
+        "open": "0.54820000",
+        "high": "0.54880000",
+        "low": "0.54820000",
+        "close": "0.54870000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:05:00",
+        "open": "0.54870000",
+        "high": "0.54870000",
+        "low": "0.54830000",
+        "close": "0.54840000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:06:00",
+        "open": "0.54820000",
+        "high": "0.54820000",
+        "low": "0.54750000",
+        "close": "0.54810000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:07:00",
+        "open": "0.54810000",
+        "high": "0.54810000",
+        "low": "0.54710000",
+        "close": "0.54710000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:08:00",
+        "open": "0.54710000",
+        "high": "0.54710000",
+        "low": "0.54570000",
+        "close": "0.54590000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:09:00",
+        "open": "0.54590000",
+        "high": "0.54630000",
+        "low": "0.54520000",
+        "close": "0.54540000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:10:00",
+        "open": "0.54540000",
+        "high": "0.54540000",
+        "low": "0.54270000",
+        "close": "0.54280000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:11:00",
+        "open": "0.54260000",
+        "high": "0.54430000",
+        "low": "0.54240000",
+        "close": "0.54400000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:12:00",
+        "open": "0.54390000",
+        "high": "0.54440000",
+        "low": "0.54280000",
+        "close": "0.54400000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:13:00",
+        "open": "0.54400000",
+        "high": "0.54430000",
+        "low": "0.54310000",
+        "close": "0.54370000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:14:00",
+        "open": "0.54370000",
+        "high": "0.54400000",
+        "low": "0.54330000",
+        "close": "0.54400000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:15:00",
+        "open": "0.54410000",
+        "high": "0.54610000",
+        "low": "0.54380000",
+        "close": "0.54610000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:16:00",
+        "open": "0.54600000",
+        "high": "0.54600000",
+        "low": "0.54480000",
+        "close": "0.54500000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:17:00",
+        "open": "0.54520000",
+        "high": "0.54530000",
+        "low": "0.54450000",
+        "close": "0.54490000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:18:00",
+        "open": "0.54500000",
+        "high": "0.54510000",
+        "low": "0.54470000",
+        "close": "0.54500000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:19:00",
+        "open": "0.54500000",
+        "high": "0.54560000",
+        "low": "0.54500000",
+        "close": "0.54510000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:20:00",
+        "open": "0.54510000",
+        "high": "0.54590000",
+        "low": "0.54510000",
+        "close": "0.54570000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:21:00",
+        "open": "0.54570000",
+        "high": "0.54590000",
+        "low": "0.54420000",
+        "close": "0.54420000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:22:00",
+        "open": "0.54420000",
+        "high": "0.54420000",
+        "low": "0.54350000",
+        "close": "0.54390000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:23:00",
+        "open": "0.54390000",
+        "high": "0.54440000",
+        "low": "0.54390000",
+        "close": "0.54430000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:24:00",
+        "open": "0.54430000",
+        "high": "0.54440000",
+        "low": "0.54400000",
+        "close": "0.54430000"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "timestamp": "2023-09-04 16:25:00",
+        "open": "0.54440000",
+        "high": "0.54470000",
+        "low": "0.54420000",
+        "close": "0.54460000"
+    }
+]

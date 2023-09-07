@@ -1,0 +1,1898 @@
+[
+    {
+        "exchange": "Coinbase",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USD",
+        "price": 0.561,
+        "volume": 7442555.2,
+        "liquidity_score": 4175.27,
+        "fetch_time": "2023-09-06 18:57:25"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "LINK",
+        "trading_pair": "linkusdt",
+        "price": 6.2989,
+        "volume": 61200.840752,
+        "liquidity_score": 385.5,
+        "fetch_time": "2023-09-06 18:57:26"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "MATIC",
+        "trading_pair": "maticusdt",
+        "price": "0.5618",
+        "volume": "343261.60879003",
+        "liquidity_score": 192.84,
+        "fetch_time": "2023-09-06 18:57:27"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "LINK",
+        "trading_pair": "LINKUSD",
+        "price": 6.30568,
+        "volume": 131324.91494488,
+        "liquidity_score": 828.09,
+        "fetch_time": "2023-09-06 18:57:29"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "MATIC",
+        "trading_pair": "MATIC_USDT",
+        "price": 0.56165,
+        "volume": 1359152.9001,
+        "liquidity_score": 763.37,
+        "fetch_time": "2023-09-06 18:57:29"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSDT",
+        "price": 0.5611982,
+        "volume": 1942915.0,
+        "liquidity_score": 1090.36,
+        "fetch_time": "2023-09-06 18:57:30"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "LINK",
+        "trading_pair": "LINK-USDT",
+        "price": 6.2995,
+        "volume": 282944.46969813,
+        "liquidity_score": 1782.41,
+        "fetch_time": "2023-09-06 18:57:31"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "MATIC",
+        "trading_pair": "maticusdt",
+        "price": 0.56126,
+        "volume": 64432.0987665456,
+        "liquidity_score": 36.16,
+        "fetch_time": "2023-09-06 18:57:32"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "MATIC",
+        "trading_pair": "MATICUSD",
+        "price": 0.561,
+        "volume": 2567594.2601501,
+        "liquidity_score": 1440.42,
+        "fetch_time": "2023-09-06 18:57:33"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USDT",
+        "price": 0.5619,
+        "volume": 2344711.32386328,
+        "liquidity_score": 1317.49,
+        "fetch_time": "2023-09-06 18:57:34"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "LINK",
+        "trading_pair": "LINK-USDT",
+        "timestamp": "1694022960000",
+        "open": "6.3",
+        "high": "6.345",
+        "low": "6.295",
+        "close": "6.311",
+        "volume": "1"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USDT",
+        "timestamp": "1694022960000",
+        "open": "0.5618",
+        "high": "0.5652",
+        "low": "0.5605",
+        "close": "0.5622",
+        "volume": "1"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "LINK",
+        "trading_pair": "LINK-USDT",
+        "price": 6.3072,
+        "volume": 6862.40406421,
+        "liquidity_score": 43.28,
+        "fetch_time": "2023-09-06 18:57:37"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "MATIC",
+        "trading_pair": "MATIC-USDT",
+        "price": 0.56145,
+        "volume": 31437.186388128,
+        "liquidity_score": 17.65,
+        "fetch_time": "2023-09-06 18:57:38"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "LINK",
+        "trading_pair": "linkusdt",
+        "price": 6.0512,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 18:57:45"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "MATIC",
+        "trading_pair": "maticusdt",
+        "price": 0.553,
+        "volume": 2780.5,
+        "liquidity_score": 1.54,
+        "fetch_time": "2023-09-06 18:57:45"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "UNI",
+        "trading_pair": "UNIUSDT",
+        "price": 4.482,
+        "volume": 5225930.26517,
+        "liquidity_score": 23422.62,
+        "fetch_time": "2023-09-06 18:57:46"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "price": 0.04254,
+        "volume": 1754023.81817,
+        "liquidity_score": 74.62,
+        "fetch_time": "2023-09-06 18:57:47"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "QUICK",
+        "trading_pair": "QUICK_USDT",
+        "price": 0.042552,
+        "volume": 4200281.7,
+        "liquidity_score": 178.73,
+        "fetch_time": "2023-09-06 18:57:51"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "UNI",
+        "trading_pair": "UNI_USDT",
+        "price": 4.4805,
+        "volume": 226108.5,
+        "liquidity_score": 1013.08,
+        "fetch_time": "2023-09-06 18:57:52"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSD",
+        "price": 25927.0,
+        "volume": 1046.44137111,
+        "liquidity_score": 27131.09,
+        "fetch_time": "2023-09-06 18:57:54"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "UNI",
+        "trading_pair": "UNIUSD",
+        "price": 25927.0,
+        "volume": 1046.44137111,
+        "liquidity_score": 27131.09,
+        "fetch_time": "2023-09-06 18:57:54"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "UNI",
+        "trading_pair": "UNI-USDT",
+        "price": "4.400000000000",
+        "fetch_time": "2023-09-06 18:57:56"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "UNI",
+        "trading_pair": "UNIUSDT",
+        "last_price": "4.473",
+        "volume_24h": 1160160.2,
+        "liquidity_score": 5189.4,
+        "fetch_time": "2023-09-06 18:57:57"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "UNI",
+        "trading_pair": "UNI:USDT",
+        "price": 4.5,
+        "volume": 8.53,
+        "liquidity_score": 0.04,
+        "fetch_time": "2023-09-06 18:57:59"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "QUICK",
+        "trading_pair": "QUICK-USD",
+        "price": 42.5,
+        "volume": 397.0612,
+        "liquidity_score": 16.88,
+        "fetch_time": "2023-09-06 18:58:00"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "UNI",
+        "trading_pair": "UNI-USD",
+        "price": 4.473,
+        "volume": 170700.634058,
+        "liquidity_score": 763.54,
+        "fetch_time": "2023-09-06 18:58:01"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "QUICK",
+        "trading_pair": "quickusdt",
+        "price": "0.042006",
+        "volume": "111105.48947750",
+        "liquidity_score": 4.67,
+        "fetch_time": "2023-09-06 18:58:01"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "UNI",
+        "trading_pair": "uniusdt",
+        "price": "4.4573",
+        "volume": "1068.22241694",
+        "liquidity_score": 4.76,
+        "fetch_time": "2023-09-06 18:58:02"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "UNI",
+        "trading_pair": "UNI_USDT",
+        "price": 4.4778,
+        "volume": 2961.61,
+        "liquidity_score": 13.26,
+        "fetch_time": "2023-09-06 18:58:04"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "UNI",
+        "trading_pair": "UNIUSDT",
+        "price": 4.47781,
+        "volume": 365871.99,
+        "liquidity_score": 1638.31,
+        "fetch_time": "2023-09-06 18:58:05"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "QUICK",
+        "trading_pair": "quickusdt",
+        "price": 0.042002,
+        "volume": 21832.5577132823,
+        "liquidity_score": 0.92,
+        "fetch_time": "2023-09-06 18:58:09"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "UNI",
+        "trading_pair": "uniusdt",
+        "price": 4.4765,
+        "volume": 643017.33045452,
+        "liquidity_score": 2878.47,
+        "fetch_time": "2023-09-06 18:58:09"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "UNI",
+        "trading_pair": "UNIUSD",
+        "price": 4.474,
+        "volume": 14265.81799748,
+        "liquidity_score": 63.83,
+        "fetch_time": "2023-09-06 18:58:10"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "UNI",
+        "trading_pair": "UNI-USDT",
+        "price": 4.4784,
+        "volume": 42223.4879,
+        "liquidity_score": 189.09,
+        "fetch_time": "2023-09-06 18:58:12"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "QUICK",
+        "trading_pair": "QUICK-USDT",
+        "price": 56.65,
+        "volume": 36.3758,
+        "liquidity_score": 2.06,
+        "fetch_time": "2023-09-06 18:58:12"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "UNI",
+        "trading_pair": "UNI-USDT",
+        "timestamp": "1694023020000",
+        "open": "4.488",
+        "high": "4.491",
+        "low": "4.475",
+        "close": "4.475",
+        "volume": "1"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "UNI",
+        "trading_pair": "uniusdt",
+        "price": 4.735,
+        "volume": 6.95,
+        "liquidity_score": 0.03,
+        "fetch_time": "2023-09-06 18:58:28"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSDT",
+        "price": 0.6,
+        "volume": 1879155.3644,
+        "liquidity_score": 1127.49,
+        "fetch_time": "2023-09-06 18:58:31"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI_USDT",
+        "price": 0.601,
+        "volume": 97558.96,
+        "liquidity_score": 58.63,
+        "fetch_time": "2023-09-06 18:58:34"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "RENBTC",
+        "trading_pair": "RENBTCUSD",
+        "price": 25889.0,
+        "volume": 1047.00051283,
+        "liquidity_score": 27105.8,
+        "fetch_time": "2023-09-06 18:58:39"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSD",
+        "price": 25889.0,
+        "volume": 1047.00051283,
+        "liquidity_score": 27105.8,
+        "fetch_time": "2023-09-06 18:58:39"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "price": "0.564000000000",
+        "fetch_time": "2023-09-06 18:58:46"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSDT",
+        "last_price": "0.599",
+        "volume_24h": 6393022.7,
+        "liquidity_score": 3829.42,
+        "fetch_time": "2023-09-06 18:58:50"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI:USDT",
+        "price": 0.594,
+        "volume": 17.0,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 18:58:52"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USD",
+        "price": 0.5993,
+        "volume": 1463016.63,
+        "liquidity_score": 876.79,
+        "fetch_time": "2023-09-06 18:58:53"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "SUSHI",
+        "trading_pair": "sushiusdt",
+        "price": "0.6021",
+        "volume": "14549.59339863",
+        "liquidity_score": 8.76,
+        "fetch_time": "2023-09-06 18:58:54"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI_USDT",
+        "price": 0.6,
+        "volume": 11977.2,
+        "liquidity_score": 7.19,
+        "fetch_time": "2023-09-06 18:58:55"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "RENBTC",
+        "trading_pair": "RENBTCUSDT",
+        "price": 30988.0,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 18:58:55"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSDT",
+        "price": 0.598597,
+        "volume": 731774.4,
+        "liquidity_score": 438.04,
+        "fetch_time": "2023-09-06 18:58:56"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "SUSHI",
+        "trading_pair": "sushiusdt",
+        "price": 0.5993,
+        "volume": 9777.51116044,
+        "liquidity_score": 5.86,
+        "fetch_time": "2023-09-06 18:58:57"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSD",
+        "price": 0.6,
+        "volume": 8108.63749228,
+        "liquidity_score": 4.87,
+        "fetch_time": "2023-09-06 18:58:58"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "price": 0.5999,
+        "volume": 292681.3323,
+        "liquidity_score": 175.58,
+        "fetch_time": "2023-09-06 18:59:00"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "timestamp": "1694023080000",
+        "open": "0.6",
+        "high": "0.6006",
+        "low": "0.5991",
+        "close": "0.5991",
+        "volume": "1"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "price": 0.598,
+        "volume": 28.2895,
+        "liquidity_score": 0.02,
+        "fetch_time": "2023-09-06 18:59:04"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "SUSHI",
+        "trading_pair": "sushiusdt",
+        "price": 0.576,
+        "volume": 192.248,
+        "liquidity_score": 0.11,
+        "fetch_time": "2023-09-06 18:59:40"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "BADGER",
+        "trading_pair": "BADGERUSDT",
+        "price": 2.058,
+        "volume": 1005630.71767,
+        "liquidity_score": 2069.59,
+        "fetch_time": "2023-09-06 18:59:43"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "WMATIC",
+        "trading_pair": "WMATICUSD",
+        "price": 25839.0,
+        "volume": 1047.58668809,
+        "liquidity_score": 27068.59,
+        "fetch_time": "2023-09-06 18:59:48"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "BADGER",
+        "trading_pair": "BADGERUSD",
+        "price": 25839.0,
+        "volume": 1047.58668809,
+        "liquidity_score": 27068.59,
+        "fetch_time": "2023-09-06 18:59:49"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "BADGER",
+        "trading_pair": "BADGERUSDT",
+        "last_price": "2.0569",
+        "volume_24h": 219361.4,
+        "liquidity_score": 451.2,
+        "fetch_time": "2023-09-06 18:59:59"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "BADGER",
+        "trading_pair": "BADGER-USD",
+        "price": 2.06,
+        "volume": 13288.045,
+        "liquidity_score": 27.37,
+        "fetch_time": "2023-09-06 19:00:03"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "BADGER",
+        "trading_pair": "badgerusdt",
+        "price": "2.0474",
+        "volume": "1239.18815085",
+        "liquidity_score": 2.54,
+        "fetch_time": "2023-09-06 19:00:05"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "BADGER",
+        "trading_pair": "BADGER_USDT",
+        "price": 2.0591,
+        "volume": 3109.4001,
+        "liquidity_score": 6.4,
+        "fetch_time": "2023-09-06 19:00:08"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "BADGER",
+        "trading_pair": "BADGERUSDT",
+        "price": 2.0894,
+        "volume": 128.937,
+        "liquidity_score": 0.27,
+        "fetch_time": "2023-09-06 19:00:14"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "BADGER",
+        "trading_pair": "badgerusdt",
+        "price": 2.0589,
+        "volume": 34101.88190954,
+        "liquidity_score": 70.21,
+        "fetch_time": "2023-09-06 19:00:25"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "BADGER",
+        "trading_pair": "BADGERUSD",
+        "price": 2.098,
+        "volume": 80.09965976,
+        "liquidity_score": 0.17,
+        "fetch_time": "2023-09-06 19:00:30"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "BADGER",
+        "trading_pair": "BADGER-USDT",
+        "timestamp": "1694023140000",
+        "open": "2.062",
+        "high": "2.062",
+        "low": "2.057",
+        "close": "2.058",
+        "volume": "1"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "AAVE",
+        "trading_pair": "AAVEUSDT",
+        "price": 55.57,
+        "volume": 2707619.69663,
+        "liquidity_score": 150462.43,
+        "fetch_time": "2023-09-06 19:01:26"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "AAVE",
+        "trading_pair": "AAVE_USDT",
+        "price": 55.5798,
+        "volume": 2491.2624,
+        "liquidity_score": 138.46,
+        "fetch_time": "2023-09-06 19:01:38"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "RARI",
+        "trading_pair": "RARI_USDT",
+        "price": 0.9359,
+        "volume": 43929.82,
+        "liquidity_score": 41.11,
+        "fetch_time": "2023-09-06 19:01:39"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "AAVE",
+        "trading_pair": "AAVEUSD",
+        "price": 25934.0,
+        "volume": 1067.07726504,
+        "liquidity_score": 27673.58,
+        "fetch_time": "2023-09-06 19:02:03"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "RARI",
+        "trading_pair": "RARIUSD",
+        "price": 25934.0,
+        "volume": 1067.07726504,
+        "liquidity_score": 27673.58,
+        "fetch_time": "2023-09-06 19:02:04"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "AAVE",
+        "trading_pair": "AAVEUSDT",
+        "last_price": "55.53",
+        "volume_24h": 72342.61,
+        "liquidity_score": 4017.19,
+        "fetch_time": "2023-09-06 19:02:18"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "AAVE",
+        "trading_pair": "aaveusdt",
+        "price": "55.77",
+        "volume": "118.67450794",
+        "liquidity_score": 6.62,
+        "fetch_time": "2023-09-06 19:03:32"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "RARI",
+        "trading_pair": "rariusdt",
+        "price": "0.9405",
+        "volume": "9853.68960990",
+        "liquidity_score": 9.27,
+        "fetch_time": "2023-09-06 19:03:35"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "AAVE",
+        "trading_pair": "aaveusdt",
+        "price": 55.5567,
+        "volume": 824015.88376748,
+        "liquidity_score": 45779.6,
+        "fetch_time": "2023-09-06 19:04:53"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "RARI",
+        "trading_pair": "RARIUSD",
+        "price": 0.93,
+        "volume": 3835.08488972,
+        "liquidity_score": 3.57,
+        "fetch_time": "2023-09-06 19:04:57"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "AAVE",
+        "trading_pair": "AAVEUSD",
+        "price": 55.44,
+        "volume": 349.36052912,
+        "liquidity_score": 19.37,
+        "fetch_time": "2023-09-06 19:04:58"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "AAVE",
+        "trading_pair": "AAVE-USDT",
+        "price": 55.576,
+        "volume": 4486.1669,
+        "liquidity_score": 249.32,
+        "fetch_time": "2023-09-06 19:05:03"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "AAVE",
+        "trading_pair": "AAVE-USDT",
+        "timestamp": "1694023440000",
+        "open": "55.55",
+        "high": "55.56",
+        "low": "55.5",
+        "close": "55.5",
+        "volume": "1"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "AAVE",
+        "trading_pair": "aaveusdt",
+        "price": 63.999,
+        "volume": 0.99,
+        "liquidity_score": 0.06,
+        "fetch_time": "2023-09-06 19:05:27"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSDT",
+        "price": 0.04253,
+        "volume": 1760376.9871,
+        "liquidity_score": 74.87,
+        "fetch_time": "2023-09-06 19:05:29"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "WBTC",
+        "trading_pair": "BTCUSDT",
+        "price": 25895.12,
+        "volume": 603519929.4944851,
+        "liquidity_score": 15628220996.65,
+        "fetch_time": "2023-09-06 19:05:30"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "QUICK",
+        "trading_pair": "QUICK_USDT",
+        "price": 0.042542,
+        "volume": 4201077.52,
+        "liquidity_score": 178.72,
+        "fetch_time": "2023-09-06 19:05:32"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "WBTC",
+        "trading_pair": "WBTC_USDT",
+        "price": 25969.37,
+        "volume": 1.71616,
+        "liquidity_score": 44.57,
+        "fetch_time": "2023-09-06 19:05:33"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "QUICK",
+        "trading_pair": "QUICKUSD",
+        "price": 25886.0,
+        "volume": 1071.62421119,
+        "liquidity_score": 27740.06,
+        "fetch_time": "2023-09-06 19:05:35"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "WBTC",
+        "trading_pair": "XBTUSD",
+        "price": 25886.0,
+        "volume": 1071.62421119,
+        "liquidity_score": 27740.06,
+        "fetch_time": "2023-09-06 19:05:36"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "WBTC",
+        "trading_pair": "BTCUSDT",
+        "last_price": "25885.50",
+        "volume_24h": 77603.622,
+        "liquidity_score": 2008808.56,
+        "fetch_time": "2023-09-06 19:05:38"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "WBTC",
+        "trading_pair": "WBTC:USDT",
+        "price": 29150.0,
+        "volume": 0.0005,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:05:40"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "QUICK",
+        "trading_pair": "QUICK-USD",
+        "price": 42.89,
+        "volume": 372.1337,
+        "liquidity_score": 15.96,
+        "fetch_time": "2023-09-06 19:05:41"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "WBTC",
+        "trading_pair": "BTC-USD",
+        "price": 25899.98,
+        "volume": 7889.67224023,
+        "liquidity_score": 204342.35,
+        "fetch_time": "2023-09-06 19:05:41"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "QUICK",
+        "trading_pair": "quickusdt",
+        "price": "0.042538",
+        "volume": "111072.00774404",
+        "liquidity_score": 4.72,
+        "fetch_time": "2023-09-06 19:05:43"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "WBTC",
+        "trading_pair": "WBTC_USDT",
+        "price": 25912.67,
+        "volume": 1.5949,
+        "liquidity_score": 41.33,
+        "fetch_time": "2023-09-06 19:05:45"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "WBTC",
+        "trading_pair": "WBTCUSDT",
+        "price": 25910.8,
+        "volume": 0.968796,
+        "liquidity_score": 25.1,
+        "fetch_time": "2023-09-06 19:05:48"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "WBTC",
+        "trading_pair": "btcusdt",
+        "price": 25908.74,
+        "volume": 22530964.515480045,
+        "liquidity_score": 583748901.58,
+        "fetch_time": "2023-09-06 19:05:49"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "QUICK",
+        "trading_pair": "quickusdt",
+        "price": 0.042127,
+        "volume": 22442.8375221554,
+        "liquidity_score": 0.95,
+        "fetch_time": "2023-09-06 19:05:49"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "QUICK",
+        "trading_pair": "QUICK-USDT",
+        "price": 56.65,
+        "volume": 36.3602,
+        "liquidity_score": 2.06,
+        "fetch_time": "2023-09-06 19:05:52"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "WBTC",
+        "trading_pair": "WBTC-USDT",
+        "price": 25970.0,
+        "volume": 16437.731,
+        "liquidity_score": 426887.87,
+        "fetch_time": "2023-09-06 19:05:58"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "USDC",
+        "trading_pair": "USDCUSDT",
+        "price": 1.0006,
+        "volume": 251102057.2799,
+        "liquidity_score": 251252.72,
+        "fetch_time": "2023-09-06 19:06:08"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "USDC",
+        "trading_pair": "USDC_USDT",
+        "price": 1.00075,
+        "volume": 355340.5,
+        "liquidity_score": 355.61,
+        "fetch_time": "2023-09-06 19:06:10"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "USDC",
+        "trading_pair": "usdcusdt",
+        "price": "0.9998",
+        "volume": "48991.50044547",
+        "liquidity_score": 48.98,
+        "fetch_time": "2023-09-06 19:06:13"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "FRAX",
+        "trading_pair": "FRAXUSD",
+        "price": 25897.0,
+        "volume": 1071.66310929,
+        "liquidity_score": 27752.86,
+        "fetch_time": "2023-09-06 19:06:14"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "USDC",
+        "trading_pair": "USDCUSD",
+        "price": 0.9999,
+        "volume": 8761065.85567394,
+        "liquidity_score": 8760.19,
+        "fetch_time": "2023-09-06 19:06:21"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "USDC",
+        "trading_pair": "USDC-USDT",
+        "price": 1.00061,
+        "volume": 2342188.9677,
+        "liquidity_score": 2343.62,
+        "fetch_time": "2023-09-06 19:06:25"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "FRAX",
+        "trading_pair": "FRAXUSDT",
+        "price": 4.9001,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:06:32"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "CEL",
+        "trading_pair": "CEL_USDT",
+        "price": 0.1394,
+        "volume": 2325248.2,
+        "liquidity_score": 324.14,
+        "fetch_time": "2023-09-06 19:06:54"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "CEL",
+        "trading_pair": "CELUSD",
+        "price": 25900.0,
+        "volume": 1071.73196221,
+        "liquidity_score": 27757.86,
+        "fetch_time": "2023-09-06 19:06:57"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "CEL",
+        "trading_pair": "CEL-USDT",
+        "price": "0.127000000000",
+        "fetch_time": "2023-09-06 19:06:58"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "CEL",
+        "trading_pair": "celusdt",
+        "price": "0.140172",
+        "volume": "40240.53001487",
+        "liquidity_score": 5.64,
+        "fetch_time": "2023-09-06 19:07:04"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "CEL",
+        "trading_pair": "CELUSDT",
+        "price": 0.151382,
+        "volume": 402.0,
+        "liquidity_score": 0.06,
+        "fetch_time": "2023-09-06 19:07:06"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "CEL",
+        "trading_pair": "CEL-USDT",
+        "timestamp": "1694023560000",
+        "open": "0.1394",
+        "high": "0.1395",
+        "low": "0.1393",
+        "close": "0.1393",
+        "volume": "1"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "REN",
+        "trading_pair": "RENUSDT",
+        "price": 0.045928,
+        "volume": 2710160.352795,
+        "liquidity_score": 124.47,
+        "fetch_time": "2023-09-06 19:07:25"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "REN",
+        "trading_pair": "REN_USDT",
+        "price": 0.0459,
+        "volume": 2558074.2,
+        "liquidity_score": 117.42,
+        "fetch_time": "2023-09-06 19:07:28"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "REN",
+        "trading_pair": "RENUSD",
+        "price": 25913.0,
+        "volume": 1072.10873158,
+        "liquidity_score": 27781.55,
+        "fetch_time": "2023-09-06 19:07:30"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "REN",
+        "trading_pair": "RENUSDT",
+        "last_price": "0.04589",
+        "volume_24h": 64323032.8,
+        "liquidity_score": 2951.78,
+        "fetch_time": "2023-09-06 19:07:33"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "REN",
+        "trading_pair": "REN:USDT",
+        "price": 0.0484,
+        "volume": 280.354131,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:07:37"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "REN",
+        "trading_pair": "REN-USD",
+        "price": 0.046,
+        "volume": 4597777.786959,
+        "liquidity_score": 211.5,
+        "fetch_time": "2023-09-06 19:07:38"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "REN",
+        "trading_pair": "renusdt",
+        "price": "0.046180",
+        "volume": "116773.39318827",
+        "liquidity_score": 5.39,
+        "fetch_time": "2023-09-06 19:07:40"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "REN",
+        "trading_pair": "REN_USDT",
+        "price": 0.07519,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:07:43"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "REN",
+        "trading_pair": "RENUSDT",
+        "price": 0.0458602,
+        "volume": 4597069.0,
+        "liquidity_score": 210.82,
+        "fetch_time": "2023-09-06 19:07:44"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "REN",
+        "trading_pair": "renusdt",
+        "price": 0.045885,
+        "volume": 111201.23860828,
+        "liquidity_score": 5.1,
+        "fetch_time": "2023-09-06 19:07:45"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "REN",
+        "trading_pair": "RENUSD",
+        "price": 0.0446,
+        "volume": 244033.05783297,
+        "liquidity_score": 10.88,
+        "fetch_time": "2023-09-06 19:07:46"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "REN",
+        "trading_pair": "REN-USDT",
+        "price": 0.04584,
+        "volume": 1117968.7638,
+        "liquidity_score": 51.25,
+        "fetch_time": "2023-09-06 19:07:47"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "REN",
+        "trading_pair": "REN-USDT",
+        "timestamp": "1694023560000",
+        "open": "0.04592",
+        "high": "0.04593",
+        "low": "0.04589",
+        "close": "0.04593",
+        "volume": "1"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "REN",
+        "trading_pair": "REN-USDT",
+        "price": 0.0454,
+        "volume": 972.7134489,
+        "liquidity_score": 0.04,
+        "fetch_time": "2023-09-06 19:07:51"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "REN",
+        "trading_pair": "renusdt",
+        "price": 0.04489,
+        "volume": 15233.8,
+        "liquidity_score": 0.68,
+        "fetch_time": "2023-09-06 19:08:02"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "CRV",
+        "trading_pair": "CRVUSDT",
+        "price": 0.4472,
+        "volume": 4811294.989,
+        "liquidity_score": 2151.61,
+        "fetch_time": "2023-09-06 19:08:03"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "CRV",
+        "trading_pair": "CRV_USDT",
+        "price": 0.447398,
+        "volume": 289553.92,
+        "liquidity_score": 129.55,
+        "fetch_time": "2023-09-06 19:08:05"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "CRV",
+        "trading_pair": "CRVUSD",
+        "price": 25888.0,
+        "volume": 1072.0314521,
+        "liquidity_score": 27752.75,
+        "fetch_time": "2023-09-06 19:08:09"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "CRV",
+        "trading_pair": "CRV-USDT",
+        "price": "0.486000000000",
+        "fetch_time": "2023-09-06 19:08:10"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "CRV",
+        "trading_pair": "CRVUSDT",
+        "last_price": "0.446",
+        "volume_24h": 18153865.1,
+        "liquidity_score": 8096.62,
+        "fetch_time": "2023-09-06 19:08:13"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "CRV",
+        "trading_pair": "CRV-USD",
+        "price": 0.4472,
+        "volume": 900222.39,
+        "liquidity_score": 402.58,
+        "fetch_time": "2023-09-06 19:08:59"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "CRV",
+        "trading_pair": "crvusdt",
+        "price": "0.4468",
+        "volume": "10856.84042280",
+        "liquidity_score": 4.85,
+        "fetch_time": "2023-09-06 19:09:03"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "CRV",
+        "trading_pair": "CRV_USDT",
+        "price": 0.4474,
+        "volume": 38472.1,
+        "liquidity_score": 17.21,
+        "fetch_time": "2023-09-06 19:09:05"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "CRV",
+        "trading_pair": "CRVUSDT",
+        "price": 0.447019,
+        "volume": 1614554.5,
+        "liquidity_score": 721.74,
+        "fetch_time": "2023-09-06 19:09:07"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "CRV",
+        "trading_pair": "crvusdt",
+        "price": 0.4475,
+        "volume": 5471.44160556,
+        "liquidity_score": 2.45,
+        "fetch_time": "2023-09-06 19:09:09"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "CRV",
+        "trading_pair": "CRVUSD",
+        "price": 0.447,
+        "volume": 97481.00059882,
+        "liquidity_score": 43.57,
+        "fetch_time": "2023-09-06 19:09:12"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "CRV",
+        "trading_pair": "CRV-USDT",
+        "price": 0.4479,
+        "volume": 722038.5043,
+        "liquidity_score": 323.4,
+        "fetch_time": "2023-09-06 19:09:14"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "CRV",
+        "trading_pair": "CRV-USDT",
+        "timestamp": "1694023680000",
+        "open": "0.4472",
+        "high": "0.4478",
+        "low": "0.4471",
+        "close": "0.4474",
+        "volume": "1"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "CRV",
+        "trading_pair": "CRV-USDT",
+        "price": 0.4474,
+        "volume": 94572.13491694,
+        "liquidity_score": 42.31,
+        "fetch_time": "2023-09-06 19:09:18"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "CRV",
+        "trading_pair": "crvusdt",
+        "price": 0.49,
+        "volume": 30.06,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:09:23"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "BZRX",
+        "trading_pair": "BZRXUSDT",
+        "price": 0.0,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:09:28"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "BZRX",
+        "trading_pair": "BZRXUSD",
+        "price": 25904.0,
+        "volume": 1074.76684937,
+        "liquidity_score": 27840.76,
+        "fetch_time": "2023-09-06 19:09:33"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "BZRX",
+        "trading_pair": "BZRXUSDT",
+        "price": 0.032572,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:10:58"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "DAI",
+        "trading_pair": "DAIUSDT",
+        "price": 0.0,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:11:17"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "DAI",
+        "trading_pair": "DAI_USDT",
+        "price": 1.00043,
+        "volume": 1530281.1,
+        "liquidity_score": 1530.94,
+        "fetch_time": "2023-09-06 19:11:19"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "DAI",
+        "trading_pair": "DAIUSD",
+        "price": 25843.0,
+        "volume": 1077.57105354,
+        "liquidity_score": 27847.67,
+        "fetch_time": "2023-09-06 19:11:20"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "DAI",
+        "trading_pair": "DAI-USDT",
+        "price": "1.002539590000",
+        "fetch_time": "2023-09-06 19:11:22"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "DAI",
+        "trading_pair": "DAI:USDT",
+        "price": 1.0018,
+        "volume": 11.0,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:11:25"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "DAI",
+        "trading_pair": "DAI-USD",
+        "price": 0.9999,
+        "volume": 647504.80106,
+        "liquidity_score": 647.44,
+        "fetch_time": "2023-09-06 19:11:25"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "DAI",
+        "trading_pair": "daiusdt",
+        "price": "0.9982",
+        "volume": "24817.00836773",
+        "liquidity_score": 24.77,
+        "fetch_time": "2023-09-06 19:11:26"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "DAI",
+        "trading_pair": "DAI_USDT",
+        "price": 0.99807,
+        "volume": 7353.3,
+        "liquidity_score": 7.34,
+        "fetch_time": "2023-09-06 19:11:27"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "DAI",
+        "trading_pair": "daiusdt",
+        "price": 0.9993,
+        "volume": 1991.201994426152,
+        "liquidity_score": 1.99,
+        "fetch_time": "2023-09-06 19:11:29"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "DAI",
+        "trading_pair": "DAIUSD",
+        "price": 0.99994,
+        "volume": 321716.6945326,
+        "liquidity_score": 321.7,
+        "fetch_time": "2023-09-06 19:11:30"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "DAI",
+        "trading_pair": "DAI-USDT",
+        "price": 1.0005,
+        "volume": 11032.95943465,
+        "liquidity_score": 11.04,
+        "fetch_time": "2023-09-06 19:11:35"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "DAI",
+        "trading_pair": "daiusdt",
+        "price": 0.0,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:11:38"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "USDT",
+        "trading_pair": "USDTUSD",
+        "price": 25821.0,
+        "volume": 1077.80888856,
+        "liquidity_score": 27830.1,
+        "fetch_time": "2023-09-06 19:11:43"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "USDT",
+        "trading_pair": "USDT-USD",
+        "price": 0.99941,
+        "volume": 125698581.88,
+        "liquidity_score": 125624.42,
+        "fetch_time": "2023-09-06 19:11:48"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "WBTC",
+        "trading_pair": "BTCUSDT",
+        "price": 25818.63,
+        "volume": 611963426.8656108,
+        "liquidity_score": 15800057291.78,
+        "fetch_time": "2023-09-06 19:12:05"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "WBTC",
+        "trading_pair": "WBTC_USDT",
+        "price": 25937.8,
+        "volume": 1.71594,
+        "liquidity_score": 44.51,
+        "fetch_time": "2023-09-06 19:12:07"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "WBTC",
+        "trading_pair": "XBTUSD",
+        "price": 25810.0,
+        "volume": 1077.65204008,
+        "liquidity_score": 27814.2,
+        "fetch_time": "2023-09-06 19:12:10"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "WBTC",
+        "trading_pair": "BTCUSDT",
+        "last_price": "25815.30",
+        "volume_24h": 79057.105,
+        "liquidity_score": 2040882.88,
+        "fetch_time": "2023-09-06 19:12:11"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "WBTC",
+        "trading_pair": "WBTC:USDT",
+        "price": 29150.0,
+        "volume": 0.0005,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:12:12"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "WBTC",
+        "trading_pair": "BTC-USD",
+        "price": 25805.58,
+        "volume": 8045.75679435,
+        "liquidity_score": 207625.42,
+        "fetch_time": "2023-09-06 19:12:13"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "WBTC",
+        "trading_pair": "WBTC_USDT",
+        "price": 25853.3,
+        "volume": 1.6027,
+        "liquidity_score": 41.44,
+        "fetch_time": "2023-09-06 19:12:16"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "WBTC",
+        "trading_pair": "WBTCUSDT",
+        "price": 25840.8,
+        "volume": 1.007167,
+        "liquidity_score": 26.03,
+        "fetch_time": "2023-09-06 19:12:17"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "WBTC",
+        "trading_pair": "btcusdt",
+        "price": 25816.35,
+        "volume": 23721569.03394728,
+        "liquidity_score": 612404328.73,
+        "fetch_time": "2023-09-06 19:12:18"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "WBTC",
+        "trading_pair": "WBTC-USDT",
+        "price": 25870.0,
+        "volume": 16764.226,
+        "liquidity_score": 433690.53,
+        "fetch_time": "2023-09-06 19:12:24"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSDT",
+        "price": 0.598,
+        "volume": 1936741.0707,
+        "liquidity_score": 1158.17,
+        "fetch_time": "2023-09-06 19:12:30"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI_USDT",
+        "price": 0.598,
+        "volume": 97642.88,
+        "liquidity_score": 58.39,
+        "fetch_time": "2023-09-06 19:12:32"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSD",
+        "price": 25798.0,
+        "volume": 1077.85866728,
+        "liquidity_score": 27806.6,
+        "fetch_time": "2023-09-06 19:12:35"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "price": "0.564000000000",
+        "fetch_time": "2023-09-06 19:12:37"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSDT",
+        "last_price": "0.597",
+        "volume_24h": 6633932.4,
+        "liquidity_score": 3960.46,
+        "fetch_time": "2023-09-06 19:12:38"
+    },
+    {
+        "exchange": "CEX.IO",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI:USDT",
+        "price": 0.594,
+        "volume": 17.0,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:12:40"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USD",
+        "price": 0.5966,
+        "volume": 1425889.1,
+        "liquidity_score": 850.69,
+        "fetch_time": "2023-09-06 19:12:42"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "SUSHI",
+        "trading_pair": "sushiusdt",
+        "price": "0.6013",
+        "volume": "14512.05550395",
+        "liquidity_score": 8.73,
+        "fetch_time": "2023-09-06 19:12:43"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI_USDT",
+        "price": 0.5975,
+        "volume": 11975.8,
+        "liquidity_score": 7.16,
+        "fetch_time": "2023-09-06 19:12:44"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSDT",
+        "price": 0.596288,
+        "volume": 762808.7,
+        "liquidity_score": 454.85,
+        "fetch_time": "2023-09-06 19:12:46"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "SUSHI",
+        "trading_pair": "sushiusdt",
+        "price": 0.5969,
+        "volume": 12309.63333747,
+        "liquidity_score": 7.35,
+        "fetch_time": "2023-09-06 19:12:46"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHIUSD",
+        "price": 0.599,
+        "volume": 8645.50591816,
+        "liquidity_score": 5.18,
+        "fetch_time": "2023-09-06 19:12:48"
+    },
+    {
+        "exchange": "KuCoin",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "price": 0.5967,
+        "volume": 300897.4368,
+        "liquidity_score": 179.55,
+        "fetch_time": "2023-09-06 19:12:49"
+    },
+    {
+        "exchange": "OKEx",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "timestamp": "1694023860000",
+        "open": "0.5996",
+        "high": "0.5998",
+        "low": "0.5975",
+        "close": "0.5976",
+        "volume": "1"
+    },
+    {
+        "exchange": "Probit",
+        "asset": "SUSHI",
+        "trading_pair": "SUSHI-USDT",
+        "price": 0.598,
+        "volume": 28.2895,
+        "liquidity_score": 0.02,
+        "fetch_time": "2023-09-06 19:12:54"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "SUSHI",
+        "trading_pair": "sushiusdt",
+        "price": 0.576,
+        "volume": 192.248,
+        "liquidity_score": 0.11,
+        "fetch_time": "2023-09-06 19:12:57"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "PICKLE",
+        "trading_pair": "PICKLEUSD",
+        "price": 25786.0,
+        "volume": 1123.20644057,
+        "liquidity_score": 28963.0,
+        "fetch_time": "2023-09-06 19:13:02"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "SPELL",
+        "trading_pair": "SPELLUSDT",
+        "price": 0.0004015,
+        "volume": 1926407.2277301,
+        "liquidity_score": 0.77,
+        "fetch_time": "2023-09-06 19:13:22"
+    },
+    {
+        "exchange": "BitMart",
+        "asset": "SPELL",
+        "trading_pair": "SPELL_USDT",
+        "price": 0.0004008,
+        "volume": 283248458.8,
+        "liquidity_score": 113.53,
+        "fetch_time": "2023-09-06 19:13:24"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "SPELL",
+        "trading_pair": "SPELLUSD",
+        "price": 25774.0,
+        "volume": 1125.07057479,
+        "liquidity_score": 28997.57,
+        "fetch_time": "2023-09-06 19:13:26"
+    },
+    {
+        "exchange": "Bybit",
+        "asset": "SPELL",
+        "trading_pair": "SPELLUSDT",
+        "last_price": "0.000401",
+        "volume_24h": 639035850.0,
+        "liquidity_score": 256.25,
+        "fetch_time": "2023-09-06 19:13:28"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "SPELL",
+        "trading_pair": "SPELL-USD",
+        "price": 0.0004012,
+        "volume": 621556013.0,
+        "liquidity_score": 249.37,
+        "fetch_time": "2023-09-06 19:13:30"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "SPELL",
+        "trading_pair": "spellusdt",
+        "price": "0.00040049",
+        "volume": "12627070.20613893",
+        "liquidity_score": 5.06,
+        "fetch_time": "2023-09-06 19:13:31"
+    },
+    {
+        "exchange": "Crypto.com",
+        "asset": "SPELL",
+        "trading_pair": "SPELL_USDT",
+        "price": 0.0004017,
+        "volume": 11159900.0,
+        "liquidity_score": 4.48,
+        "fetch_time": "2023-09-06 19:13:32"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "SPELL",
+        "trading_pair": "SPELLUSDT",
+        "price": 0.000406,
+        "volume": 2438081.0,
+        "liquidity_score": 0.99,
+        "fetch_time": "2023-09-06 19:13:33"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "SPELL",
+        "trading_pair": "spellusdt",
+        "price": 0.000401,
+        "volume": 1843.8184189172,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:13:34"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "SPELL",
+        "trading_pair": "SPELLUSD",
+        "price": 0.000396,
+        "volume": 4976821.45570211,
+        "liquidity_score": 1.97,
+        "fetch_time": "2023-09-06 19:13:35"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "SPELL",
+        "trading_pair": "spellusdt",
+        "price": 0.0004383,
+        "volume": 18944.0,
+        "liquidity_score": 0.01,
+        "fetch_time": "2023-09-06 19:13:45"
+    },
+    {
+        "exchange": "Binance",
+        "asset": "GHST",
+        "trading_pair": "GHSTUSDT",
+        "price": 0.812,
+        "volume": 345619.1122,
+        "liquidity_score": 280.64,
+        "fetch_time": "2023-09-06 19:13:46"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "GHST",
+        "trading_pair": "GHSTUSD",
+        "price": 25790.0,
+        "volume": 1125.08761591,
+        "liquidity_score": 29016.01,
+        "fetch_time": "2023-09-06 19:13:50"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "GHST",
+        "trading_pair": "GHST-USD",
+        "price": 0.811,
+        "volume": 6972.44,
+        "liquidity_score": 5.65,
+        "fetch_time": "2023-09-06 19:13:54"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "GHST",
+        "trading_pair": "ghstusdt",
+        "price": "0.8109",
+        "volume": "10198.61250471",
+        "liquidity_score": 8.27,
+        "fetch_time": "2023-09-06 19:13:55"
+    },
+    {
+        "exchange": "HitBTC",
+        "asset": "GHST",
+        "trading_pair": "GHSTUSDT",
+        "price": 1.2076,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:13:58"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "GHST",
+        "trading_pair": "ghstusdt",
+        "price": 0.8122,
+        "volume": 961.83709978,
+        "liquidity_score": 0.78,
+        "fetch_time": "2023-09-06 19:14:00"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "GHST",
+        "trading_pair": "GHSTUSD",
+        "price": 0.8063,
+        "volume": 146.45848359,
+        "liquidity_score": 0.12,
+        "fetch_time": "2023-09-06 19:14:02"
+    },
+    {
+        "exchange": "WazirX",
+        "asset": "GHST",
+        "trading_pair": "ghstusdt",
+        "price": 0.6,
+        "volume": 0.0,
+        "liquidity_score": 0.0,
+        "fetch_time": "2023-09-06 19:14:12"
+    },
+    {
+        "exchange": "Bitstamp",
+        "asset": "CURVE",
+        "trading_pair": "CRVUSD",
+        "price": 25797.0,
+        "volume": 1123.57261516,
+        "liquidity_score": 28984.8,
+        "fetch_time": "2023-09-06 19:14:19"
+    },
+    {
+        "exchange": "Bittrex",
+        "asset": "CURVE",
+        "trading_pair": "CRV-USDT",
+        "price": "0.486000000000",
+        "fetch_time": "2023-09-06 19:14:20"
+    },
+    {
+        "exchange": "Coinbase",
+        "asset": "CURVE",
+        "trading_pair": "CRV-USD",
+        "price": 0.4441,
+        "volume": 904706.28,
+        "liquidity_score": 401.78,
+        "fetch_time": "2023-09-06 19:14:25"
+    },
+    {
+        "exchange": "Coinex",
+        "asset": "CURVE",
+        "trading_pair": "crvusdt",
+        "price": "0.4439",
+        "volume": "11028.53523740",
+        "liquidity_score": 4.9,
+        "fetch_time": "2023-09-06 19:14:26"
+    },
+    {
+        "exchange": "Huobi",
+        "asset": "CURVE",
+        "trading_pair": "crvusdt",
+        "price": 0.4446,
+        "volume": 5552.33861674,
+        "liquidity_score": 2.47,
+        "fetch_time": "2023-09-06 19:14:29"
+    },
+    {
+        "exchange": "Kraken",
+        "asset": "CURVE",
+        "trading_pair": "CRVUSD",
+        "price": 0.444,
+        "volume": 99311.14042394,
+        "liquidity_score": 44.09,
+        "fetch_time": "2023-09-06 19:14:31"
+    }
+]

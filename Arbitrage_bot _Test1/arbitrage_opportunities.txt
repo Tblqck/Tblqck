@@ -1,0 +1,4 @@
+ASSET IN VIEW: CURVE, BUY: CURVE, from Bitstamp, SEND TO: CURVE, IN: Coinbase, Profit: $59603477.27
+ASSET IN VIEW: CURVE, BUY: CURVE, from Bitstamp, SEND TO: CURVE, IN: Bitstamp, Profit: $1.37
+ASSET IN VIEW: GHST, BUY: GHST, from Bitstamp, SEND TO: GHST, IN: Bitstamp, Profit: $0.71
+ASSET IN VIEW: SPELL, BUY: SPELL, from Bitstamp, SEND TO: SPELL, IN: Bitstamp, Profit: $0.36
